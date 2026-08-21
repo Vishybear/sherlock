@@ -32,7 +32,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -48,3 +47,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
