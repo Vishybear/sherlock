@@ -1,10 +1,10 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -19,7 +19,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Linktree
 Minecraft
+ObservableHQ
 Odysee
 PCGamer
 Pornhub
@@ -47,7 +49,7 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
+xHamster
