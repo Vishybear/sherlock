@@ -5,7 +5,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -13,7 +12,6 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
@@ -21,7 +19,6 @@ Houzz
 Hubski
 Instapaper
 ObservableHQ
-Odysee
 PCGamer
 Pornhub
 Rarible
@@ -50,3 +47,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
