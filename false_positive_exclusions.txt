@@ -16,10 +16,10 @@ Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
-Hive Blog
 Houzz
 Hubski
 Instapaper
+LiveJournal
 ObservableHQ
 Odysee
 PCGamer
@@ -42,7 +42,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 igromania
@@ -52,4 +51,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
