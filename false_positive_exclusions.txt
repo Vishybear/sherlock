@@ -1,10 +1,12 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
+Blogger
+BoardGameGeek
 Championat
 Chatujme.cz
 ChaturBate
@@ -21,6 +23,7 @@ Instapaper
 Linktree
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -33,6 +36,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -49,3 +53,5 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+threads
+xHamster
