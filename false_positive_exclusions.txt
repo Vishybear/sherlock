@@ -6,7 +6,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
-BoardGameGeek
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -20,12 +20,13 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
 Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -36,7 +37,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -53,5 +53,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-threads
 xHamster
