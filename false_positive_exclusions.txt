@@ -1,6 +1,4 @@
-APClips
 Airliners
-Anilist
 Apple Developer
 Apple Discussions
 Archive.org
@@ -36,6 +34,7 @@ Splice
 Spotify
 TryHackMe
 Velomania
+Vero
 Weblate
 YandexMusic
 authorSTREAM
@@ -48,4 +47,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
