@@ -1,4 +1,3 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -14,6 +13,7 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+Gravatar
 HackerNews
 Hashnode
 Houzz
@@ -22,6 +22,7 @@ Instapaper
 Linktree
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
 Rarible
 Realmeye
