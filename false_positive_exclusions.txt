@@ -24,6 +24,7 @@ Linktree
 Minecraft
 ObservableHQ
 Odysee
+Outgress
 PCGamer
 Rarible
 Realmeye
