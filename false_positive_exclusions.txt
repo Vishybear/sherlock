@@ -24,19 +24,17 @@ Linktree
 Minecraft
 ObservableHQ
 Odysee
-Outgress
 PCGamer
 Rarible
 Realmeye
 Reddit
 ReverbNation
-RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
@@ -51,4 +49,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
