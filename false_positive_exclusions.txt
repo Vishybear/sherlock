@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
+CTAN
 Championat
 Chatujme.cz
 ChaturBate
@@ -29,12 +30,13 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
-RuneScape
+RocketTube
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
@@ -49,3 +51,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
