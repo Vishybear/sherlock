@@ -1,14 +1,8 @@
-APClips
 Airliners
-Anilist
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
-Carbonmade
-Championat
 Chatujme.cz
-Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -18,7 +12,7 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Itch.io
+LibraryThing
 Linktree
 Minecraft
 ObservableHQ
@@ -29,6 +23,7 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -49,4 +44,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
