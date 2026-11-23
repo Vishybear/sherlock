@@ -3,14 +3,16 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Audiojungle
+BabyRu
 Chatujme.cz
 Codolio
-DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
 HackerNews
 Hashnode
+Houzz
 Hubski
 Instapaper
 Linktree
@@ -18,6 +20,8 @@ Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -32,6 +36,7 @@ Trakt
 TryHackMe
 Velomania
 Vero
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
